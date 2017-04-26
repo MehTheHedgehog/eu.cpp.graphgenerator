@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GrafCmd", "GrafCmd\GrafCmd.vcxproj", "{E0787E57-C64F-4B58-A75B-E32656311560}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0787E57-C64F-4B58-A75B-E32656311560}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E0787E57-C64F-4B58-A75B-E32656311560}.Debug|Win32.Build.0 = Debug|Win32
+		{E0787E57-C64F-4B58-A75B-E32656311560}.Release|Win32.ActiveCfg = Release|Win32
+		{E0787E57-C64F-4B58-A75B-E32656311560}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
